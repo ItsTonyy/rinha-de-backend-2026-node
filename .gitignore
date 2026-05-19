@@ -143,7 +143,5 @@ vite.config.ts.timestamp-*
 .vite/
 
 # My personal config
-./MDFiles
-.md
-.md*
+/MDFiles/
 
